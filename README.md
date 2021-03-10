@@ -1,6 +1,6 @@
 # Natural-Language-Processing-with-Disaster-Tweets
 [ Kaggle competition Link](https://www.kaggle.com/c/nlp-getting-started/overview)
-It is the first Natural Language Processing competition on Kaggle I took part in Using logistic regression with BOWs model the  test accuracy is 77.03% and with Tf-Idf the test accuracy is 76.38% and using Embedding and LSTM Recurrent Neural Network test accuracy is 98%
+It is my first Natural Language Processing competition on Kaggle I took part in Using logistic regression with BOWs model the  test accuracy is 77.03% and with Tf-Idf the test accuracy is 76.38% and using Embedding and LSTM Recurrent Neural Network test accuracy is 98%
 ## Competition Description
 Twitter has become an important communication channel in times of emergency.
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
