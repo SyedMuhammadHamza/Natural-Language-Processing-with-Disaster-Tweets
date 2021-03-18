@@ -3,7 +3,7 @@
 It is my first Natural Language Processing competition on Kaggle I took part in Using logistic regression with BOWs model the  test accuracy is 77.03% and with Tf-Idf the test accuracy is 76.38% and using Embedding and LSTM Recurrent Neural Network test accuracy is 98%
 ## Competition Description
 Twitter has become an important communication channel in times of emergency.
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies). 
 
 in this competition, you’re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. You’ll have access to a dataset of 10,000 tweets that were hand classified
 
