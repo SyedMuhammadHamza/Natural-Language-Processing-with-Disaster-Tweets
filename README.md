@@ -15,7 +15,8 @@ in this competition, you’re challenged to build a machine learning model that 
 * target - in train.csv only, this denotes whether a tweet is about a real disaster (1) or not (0)
 
 ## EDA
-Below are a few highlights from the Exploratory Data Analysis
+* Below are a few highlights from the Exploratory Data Analysis
+
 <img src="Images/BALANCED_CLASSES.jpg"/>
 <img src="Images/PLOT1.jpg"/>
 <img src="Images/PLOT2.jpg"/>
